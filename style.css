@@ -65,3 +65,6 @@ body{
 .footer{
     margin-top: 150px;
 }
+a{
+    text-decoration: none;
+}
